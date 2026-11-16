@@ -1,0 +1,13 @@
+Month,Region,Units,Revenue,Cost
+Jan,North,120,2400,1100
+Feb,North,135,2700,1250
+Mar,North,150,3100,1400
+Apr,South,95,1900,900
+May,South,110,2250,1000
+Jun,South,130,2600,1180
+Jul,East,160,3300,1500
+Aug,East,140,2900,1350
+Sep,East,125,2550,1200
+Oct,West,105,2100,980
+Nov,West,118,2380,1090
+Dec,West,170,3500,1600
